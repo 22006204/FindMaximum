@@ -62,11 +62,15 @@ max_marks([88,67,77,93,95,11,67,89,56,89])
 
 ```
 ## Sample Input and Output
-[output1](./P4.png)
-[output2](./P3.png)
-[output3](./P2.png)
+
+![max_marks1](https://user-images.githubusercontent.com/118787261/213275344-9d869ada-221f-49fc-b618-b9b7e884b06f.jpg)
 
 ## Output:
+![P4](https://user-images.githubusercontent.com/118787261/213275494-dd5b5329-36a7-4781-b405-f4ca2c749a40.png)
+![P3](https://user-images.githubusercontent.com/118787261/213275512-a8933038-5a3e-4621-bed2-16af61f25db7.png)
+
+![P2](https://user-images.githubusercontent.com/118787261/213275534-2c807820-fba4-4924-a8b9-74c0373e6957.png)
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
